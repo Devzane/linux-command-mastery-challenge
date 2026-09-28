@@ -1,0 +1,23 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
+
+# Rule 9: never commit secrets
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+*.ppk
+.env
+.env.*
+secring.*
+private-keys-v1.d/
+
+# Scratch files from drills
+*.tmp
+tmp/
