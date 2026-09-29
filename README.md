@@ -171,7 +171,7 @@ linux-command-mastery-challenge/
 
 Through this challenge I am building the ability to administer and secure Linux servers, provision users and software, diagnose services from their logs, operate remote machines over SSH, and turn repeated checks into reliable Bash automation.
 
-- LinkedIn: [Abdulmuiz Ayodeji Sulaiman](http://linkedin.com/in/abdulmuiz-sulaiman/)
+- LinkedIn: [Abdulmuiz Ayodeji Sulaiman](http://linkedin.com/in/abdulmuizsulaiman/)
 
 ---
 
