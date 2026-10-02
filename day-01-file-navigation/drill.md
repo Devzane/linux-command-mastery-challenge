@@ -7,5 +7,17 @@
 ## Commands I ran (in the order I ran them)
 
 ```bash
-TODO: paste the exact commands here, in order
+pwd
+cd /var/log
+pwd
+cd ~
+pwd
+cd -
+cd -
+ls
+ls -l
+ls -a
+ls -la
+cd ..
+pwd
 ```

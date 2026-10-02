@@ -2,13 +2,13 @@
 
 ![Linux](https://img.shields.io/badge/Linux-command%20line-black?logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-automation-4EAA25?logo=gnubash&logoColor=white)
-![Progress](https://img.shields.io/badge/progress-0%2F30-orange)
+![Progress](https://img.shields.io/badge/progress-1%2F30-orange)
 ![Commit policy](https://img.shields.io/badge/commits-1%20per%20day%2C%20never%20backdated-blue)
 ![Cohort](https://img.shields.io/badge/IOTB%20TECH-Fellows%20Challenge-1a9090)
 
 > 300 commands and derivatives, 30 consecutive days, 6 themed phases. Every day: a real terminal drill, a journal entry, a dated commit, and a public write-up.
 
-**Challenge progress: 0 / 30 days complete**
+**Challenge progress: 1 / 30 days complete**
 
 ---
 
@@ -29,7 +29,7 @@ This repository documents a 30-day, hands-on journey from basic navigation to re
 
 | Day | Topic | Status | Folder | Article |
 |-----|-------|--------|--------|---------|
-| 1 | Where Am I? Basic Orientation | ⬜ Not started | [day-01-file-navigation](./day-01-file-navigation/) | _pending_ |
+| 1 | Where Am I? Basic Orientation | ✅ Done | [day-01-file-navigation](./day-01-file-navigation/) | _pending_ |
 | 2 | Creating, Copying, Moving, Deleting | ⬜ Not started | [day-02-file-operations](./day-02-file-operations/) | _pending_ |
 | 3 | Reading & Inspecting Files | ⬜ Not started | [day-03-file-inspection](./day-03-file-inspection/) | _pending_ |
 | 4 | Searching the Filesystem | ⬜ Not started | [day-04-filesystem-search](./day-04-filesystem-search/) | _pending_ |

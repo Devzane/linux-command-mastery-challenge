@@ -6,16 +6,16 @@ My running log of all 300 commands: one line each, in my own words, plus one thi
 
 | # | Command | What it does (my words) | Surprise or mistake |
 |---|---------|-------------------------|---------------------|
-| 1 | `pwd` | TODO | TODO |
-| 2 | `ls` | TODO | TODO |
-| 3 | `ls -l` | TODO | TODO |
-| 4 | `ls -a` | TODO | TODO |
-| 5 | `ls -la` | TODO | TODO |
-| 6 | `ls -lh` | TODO | TODO |
-| 7 | `cd (absolute path)` | TODO | TODO |
-| 8 | `cd ..` | TODO | TODO |
-| 9 | `cd ~` | TODO | TODO |
-| 10 | `cd -` | TODO | TODO |
+| 1 | `pwd` | Shows me the present working directory — it tells me exactly where I am in the filesystem right now. | Nothing unexpected. |
+| 2 | `ls` | Lists the contents of the current directory. By default it puts many files on the same row to save space. | I thought `ls` was broken because files were squashed into rows — turns out that is just its default multi-column layout. |
+| 3 | `ls -l` | Long format listing. Shows permissions, owner, size, and date in separate columns for each file. | Nothing unexpected. |
+| 4 | `ls -a` | Shows all files, including hidden ones that start with a dot. | Nothing unexpected. |
+| 5 | `ls -la` | Combines long format and show-all — I get every hidden file with full details. | Nothing unexpected. |
+| 6 | `ls -lh` | Long format with human-readable sizes, like `4.3K` instead of just a raw number. | Nothing unexpected. |
+| 7 | `cd (absolute path)` | Changes my current directory to any location I give it as a full path starting from `/`. | Nothing unexpected. |
+| 8 | `cd ..` | Moves me one directory up — one step backward in the tree. | Nothing unexpected. |
+| 9 | `cd ~` | Takes me straight back to my home directory from anywhere in the filesystem. | I did not know I could go home this easily — I thought I had to type the full path every time. |
+| 10 | `cd -` | Jumps back to the last directory I was in. It toggles between two locations. | Nothing unexpected. |
 
 ## Day 02: Creating, Copying, Moving, Deleting
 
