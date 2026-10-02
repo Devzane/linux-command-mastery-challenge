@@ -29,7 +29,7 @@ This repository documents a 30-day, hands-on journey from basic navigation to re
 
 | Day | Topic | Status | Folder | Article |
 |-----|-------|--------|--------|---------|
-| 1 | Where Am I? Basic Orientation | ✅ Done | [day-01-file-navigation](./day-01-file-navigation/) | _pending_ |
+| 1 | Where Am I? Basic Orientation | ✅ Done | [day-01-file-navigation](./day-01-file-navigation/) | [Read](https://lnkd.in/p/dJEEJAJu) |
 | 2 | Creating, Copying, Moving, Deleting | ⬜ Not started | [day-02-file-operations](./day-02-file-operations/) | _pending_ |
 | 3 | Reading & Inspecting Files | ⬜ Not started | [day-03-file-inspection](./day-03-file-inspection/) | _pending_ |
 | 4 | Searching the Filesystem | ⬜ Not started | [day-04-filesystem-search](./day-04-filesystem-search/) | _pending_ |

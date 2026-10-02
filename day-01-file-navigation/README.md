@@ -22,4 +22,4 @@ Screenshot or terminal transcript of the drill in [evidence/](./evidence/).
 
 Previous day: none (this is where it starts)
 Next day: ../day-02-file-operations/
-LinkedIn article: _pending_
+LinkedIn article: [Read the post](https://lnkd.in/p/dJEEJAJu)
